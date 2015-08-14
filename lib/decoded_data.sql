@@ -1,11 +1,3 @@
--- Mr. Chocolate
--- * Rowdy
--- * Tabitha
--- * Sergeant Brown
--- * Melissa
--- * Grinch
--- * Wendy
--- * unnamed
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 (1,"Mr. Chocolate", 20, "M", "dark brown", "calm", "FALSE"),
 (2,"Rowdy", 10, "M", "black", "intense", "TRUE"),
